@@ -16,6 +16,8 @@ ConnectFour ist ein KI-Agent für Vier Gewinnt, basierend auf dem Minimax-Algori
 2. `java ConnectFour 0 0 3`  
    Starten in normaler Konfiguration
 
+Hinweise zu den Kommandozeilenparametern abrufbar mit `java ConnectFour`.
+
 ## Lizenz
 Copyright 2014 by Stefan Schindler  
 Licensed under [GNU GPL v3.0](LICENSE.txt)
